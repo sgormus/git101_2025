@@ -1,2 +1,1 @@
-Initial Test for git. 
-New Tests
+Initial Test for git
